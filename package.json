@@ -1,6 +1,6 @@
 {
   "name": "dom-set-grabber",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set a grab pointer on a DOM element",
   "main": "dist/bundle.js",
   "jsnext:main": "dist/bundle.es.js",
